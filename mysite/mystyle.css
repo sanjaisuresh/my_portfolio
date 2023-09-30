@@ -1,0 +1,249 @@
+.about1{
+color:white;
+font-size:25px;
+background-color:black;
+}
+.about2{
+color:black;
+font-size:25px;
+background-color:#c9c9c9;
+}
+img{
+
+  border-radius: 50%;
+  position: absolute;
+
+top:100px;
+
+}
+body {
+  background-image: url("background.jpg");
+}
+.nav{
+background-color:black;
+}
+        
+        section {
+            height: 1100px;
+        }
+.section1{
+            height: 500px;
+}
+.section2{
+            height: 600px;
+}
+.section3{
+            height: 300px;
+background-color:black;
+}
+
+
+.top-left {
+color:#ADD8E6;
+font-size:30px;
+  position: absolute;
+  top: 200px;
+  right: 16px;
+left:270px;
+}
+.top-left2 {
+color:#ADD8E6;
+font-size:30px;
+  position: absolute;
+  top: 230px;
+  right: 16px;
+left:270px;
+}
+.whiteback{
+background-color:white;
+}
+.mail{
+top:280px;
+right:16px;
+left:300px;
+}
+.mail1{
+top:2380px;
+left:20px;
+}
+.mailid
+{
+
+  position: absolute;
+  top: 283px;
+  right: 10px;
+left:334px;
+}
+.mailid1
+{
+
+  position: absolute;
+  top: 2380px;
+left:60px;
+}
+.phone1
+{
+
+  position: absolute;
+  top: 2420px;
+left:20px
+}
+.phone2
+{
+
+  position: absolute;
+  top: 2430px;
+left:60px
+}
+
+.linked{
+top:280px;
+right:16px;
+left:500px;
+}
+.linked1{
+top:2468px;
+left:06px;
+}
+.git{
+top:320px;
+right:16px;
+left:296px;
+}
+
+.lid
+{
+
+  position: absolute;
+  top: 283px;
+  right: 10px;
+left:544px;
+}
+.lid1
+{
+
+  position: absolute;
+  top: 2479px;
+left:64px;
+}
+
+.gitid
+{
+
+  position: absolute;
+  top:310px;
+right:16px;
+left:340px;
+}
+.form{
+position:absolute;
+left:597px;
+}
+.l2{
+position:absolute;
+top:2420px;
+left:597px;
+}
+.l3{
+position:absolute;
+top:2420px;
+left:647px;
+}
+.achieve1{
+ 
+position:absolute;
+top:430px;
+right:500px;
+left:520px;
+width:300px;
+}
+.achieve{
+
+position:absolute;
+top:500px;
+right:500px;
+left:350px;
+}
+.achieve2{
+
+position:absolute;
+top:550px;
+right:500px;
+left:450px;
+}
+.achieve3{
+
+position:absolute;
+top:750px;
+right:550px;
+left:790px;
+
+}
+.achieve4{
+
+position:absolute;
+top:750px;
+right:790px;
+left:120px;
+
+}
+.contact{
+top:1000px;
+}
+.skill{
+
+position:absolute;
+top:1790px;
+right:790px;
+left:40px;
+
+}
+.skill2{
+
+position:absolute;
+top:1990px;
+right:790px;
+left:40px;
+
+}
+.skill3{
+
+position:absolute;
+top:1800px;
+right:990px;
+left:400px;
+
+}
+.skill4{
+
+position:absolute;
+top:1990px;
+right:990px;
+left:400px;
+
+}
+
+.skill5{
+
+position:absolute;
+top:1800px;
+right:990px;
+left:700px;
+
+}
+.skill6{
+
+position:absolute;
+top:1990px;
+right:990px;
+left:700px;
+
+}
+.skill7{
+
+position:absolute;
+top:1790px;
+right:1500px;
+left:1000px;
+
+}
